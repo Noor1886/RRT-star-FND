@@ -1,4 +1,3 @@
-Project 5 ENPM661 
 
 To run the code it is necessary to have numpy and cv2 packages namely in addition to imagio and matplotlib:
 and to run the code update pip packages and activate the conda environment.
